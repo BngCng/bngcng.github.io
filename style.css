@@ -1,9 +1,14 @@
 header{
   background: aqua;
   height: 100px;
-  width: 700px;
+  width: 100%;
   position: fixed;
+  text-align: center;
+  color: red;
   top: 0;
+  padding: 60px;
+  font-family: 'Bangers', cursive;
+  font-size: 60px;
 }
 #left{
   background:orange;
@@ -40,10 +45,11 @@ footer{
 
 .centercont{
   display:flex;
-  height:1000px;
+  height:2000px;
   width: 100%;
 }
 section{
-  width: 700px;
+  width: 100%;
   margin: auto;
+  align-items: center;
 }
