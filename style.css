@@ -1,0 +1,49 @@
+header{
+  background: aqua;
+  height: 100px;
+  width: 700px;
+  position: fixed;
+  top: 0;
+}
+#left{
+  background:orange;
+  flex-grow:1;
+}
+#right{
+  background: purple;
+  flex-grow:1;
+}
+main{
+  background:red;
+  display: flex;
+  flex-grow: 2;
+  margin-left: 20px;
+  margin-right: 20px;
+  justify-content: flex-end;
+  align-items: flex-end;
+  
+}
+.kocka{
+  background: black;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  
+}
+footer{
+  background:blue;
+  height: 100px;
+  width: 100%;
+}
+
+
+.centercont{
+  display:flex;
+  height:1000px;
+  width: 100%;
+}
+section{
+  width: 700px;
+  margin: auto;
+}
