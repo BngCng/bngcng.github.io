@@ -1,0 +1,18 @@
+section{
+    max-width: 300px;
+    margin: auto;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+}
+h1{
+    margin: auto;
+}
+div{
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    padding: 10px;
+}
+div:hover{
+    background: rgb(255, 128, 128);
+}

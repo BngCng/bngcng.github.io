@@ -1,12 +1,11 @@
 header{
   background: aqua;
-  height: 100px;
   width: 100%;
   position: fixed;
   text-align: center;
   color: red;
   top: 0;
-  padding: 60px;
+  padding: 15px;
   font-family: 'Bangers', cursive;
   font-size: 60px;
 }
